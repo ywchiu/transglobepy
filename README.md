@@ -10,3 +10,10 @@
 
 ### 需另外安裝
 - jieba
+
+## 課程使用軟體
+### Anaconda
+- https://www.anaconda.com/distribution/
+
+### PyCharm
+- https://www.jetbrains.com/pycharm/download/#section=windows
