@@ -9,4 +9,4 @@
 - sklearn
 
 ### 需另外安裝
-jieba
+- jieba
